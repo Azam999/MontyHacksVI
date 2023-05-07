@@ -23,7 +23,7 @@ function Schedule() {
       time: "10:00am",
     },
     {
-      name: "Workshop: Resume Building for Internships, College, and Beyond",
+      name: "Workshop: Resume Building",
       time: "11:30am",
     },
     {
